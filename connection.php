@@ -1,6 +1,6 @@
 <?php
 try{
-    $pdo = new pdo('mysql:host=localhost;dbname=repair_web','root','');
+    $pdo = new pdo('mysql:host=localhost;dbname=xaliye_student','root','');
 
 // echo "guul";
 
